@@ -13,4 +13,5 @@ public class MyAdvice {
     @Before("pt()")
     public void test()
     {System.out.println("AOP TEST");}
+    1231321231
 }
